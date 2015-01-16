@@ -3,6 +3,8 @@ Protomorph v1.0-DEV
 
 Clean and simple style for [ModernBB][2]
 
+![screenshot](https://github.com/protomorph/modernbb-protomorph/blob/master/Protomorph/screenshot.png)
+
 #### Requirements
 
 - ModernBB > 3.4.1
